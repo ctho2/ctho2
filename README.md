@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently doing some webdev
+Interested in learning about ML/AI in the future
+Hobbies: hiking, cycling, gaming
