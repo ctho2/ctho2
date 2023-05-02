@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+✨ Second year Computer Science student at The Chinese University of Hong Kong
 
-Currently doing some webdev
+🌐 Currently looking into webdev
 
-Interested in learning about ML/AI in the future
+🤖 Interested in learning about ML/AI in the future
 
-Hobbies: hiking, cycling, gaming
+🚴 Hobbies: hiking, cycling, gaming
